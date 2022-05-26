@@ -25,7 +25,7 @@ access to the people we aim to serve.
     * facilitating introductions, and partnerships
 
 * The Platform must categorize/tag nonprofit support services to match candidate needs identified
-in the onboarding assessment to include but not limited to
+in the on-boarding assessment to include but not limited to
   * Resume Writing Services
   * Interview Prep
   * Free Business Attire
@@ -51,4 +51,4 @@ career paths, Offering gaps in a region based on demand, and so on) for use by A
 
 
 ## Architecture characteristics
-* End-Use Ease of Use
+* End-User Ease of Use
