@@ -6,8 +6,8 @@
 2|Simplicity| The Spotlight system should provide an easy way to connect candidates with other non-profit organizations fostering collaboration, support, and visibility along the journey. 
 3|Performance| To increase the Spotlight app adoption for candidates and non-profit organizations, the system should provide an outstanding user experience that allow its users to have an engaging experience. 
 4|Extensibility| Building incrementally the Spotlight application mitigates the impact on the limited resources available to the Diversity Cyber Council organization. This process allows the addition of features and services over time as need arises.
-5|| -
-6||
+5|Reporting| The system should provide a way to draw reports base on both the transactional data and the business metric. There should be a process to collect and store individual/aggregated business metrics. Also the system should be able to stich these metrics with transaction data to build projections for future planning.
+6||  
 7||
 
 
