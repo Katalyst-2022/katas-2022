@@ -1,4 +1,5 @@
 # Architecture Decision Records
+When adding an ADR, make a copy of the template and add the pertinent information
 
 [001 - Architectural Decision Record Template](001-Architectural%20Decision%20Record%20Template.md)
 
