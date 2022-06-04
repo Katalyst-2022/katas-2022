@@ -6,8 +6,8 @@
 2|Configurability| The Spotlight app should provide a way to configure the list of meta-data attributes specific to the offerings that are relevant to the non-profit.
 3|Performance| To increase the Spotlight app adoption for candidates and non-profit organizations, the system should provide a fluid user experience that allows for an engaging experience. 
 4|Extensibility| Building incrementally the Spotlight application mitigates the impact on the limited resources available to the Diversity Cyber Council organization. This process allows the addition of features and services over time as need arises.
-5|Fault-tolerance| The Spotlight system serves as a central hub connecting the community to a world of possibilities.  Platform services such as sharing of resources, collaboration, networking, facilitation of introductions, partnerships, training, etc. are relying on the uninterrupted working of the platform.  
-6||
+5|Reporting| The system should provide a way to draw reports base on both the transactional data and the business metric. There should be a process to collect and store individual/aggregated business metrics. Also the system should be able to stich these metrics with transaction data to build projections for future planning.  
+6|Fault-tolerance| The Spotlight system serves as a central hub connecting the community to a world of possibilities.  Platform services such as sharing of resources, collaboration, networking, facilitation of introductions, partnerships, training, etc. are relying on the uninterrupted working of the platform.  
 7||
 
 # Implicit Architecture Style
